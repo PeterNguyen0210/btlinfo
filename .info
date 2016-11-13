@@ -1,22 +1,32 @@
 [
-{"name":"PicturesMatching",
+{"uid":"moregames",
 "isupdate":true,
 "leaderboard":{"id":"","name":""},
-"android":{"admob":{"banner":{"id":"ca-app-pub-9396930101251243/1750052617","position":"bottom","showmode":2},"interstitial":{"id":"ca-app-pub-9396930101251243/4703519015","showdelay":5}},"moregames":[
-{"name":"Flappy Ball","imagelink":"https://www.dropbox.com/s/dz5d6l8257c87l7/flappyball.png?dl=1","link":"market://details?id=com.btl.flappyball"},
-{"name":"Flip It","imagelink":"https://www.dropbox.com/s/dh1cyjioklbpkam/flipit.png?dl=1", "link":"market://details?id=com.btl.flipit"},
-{"name":"Pumpkin Jump","imagelink":"https://www.dropbox.com/s/xd5xc8r6u6717tb/pumpkinjump.png?dl=1", "link":"market://details?id=com.btl.pumpkinjump"},
-{"name":"Santa Santa","imagelink":"https://www.dropbox.com/s/phadrmq1deadjo9/santasanta.png?dl=1", "link":"market://details?id=com.btl.santasanta"},
-{"name":"Three Sevens","imagelink":"https://www.dropbox.com/s/zg6ioxxz20m5fal/threesevens.png?dl=1", "link":"market://details?id=com.btl.threesevens"}]},
-"ios":{"admob":{"banner":{"id":"ca-app-pub-9396930101251243/8879964216","showmode":2},"interstitial":{"id":"ca-app-pub-9396930101251243/1356697412","showdelay":5}}}},
-{"name":"threesevens",
+"android":{"admob":{"banner":{"id":"","position":"","showmode":2},"interstitial":{"id":"","showdelay":5}},
+"moregames":[
+{"uid":"PicturesMatching","name":"Animals Matching","imagelink":"https://www.dropbox.com/s/5x95w8havi2xcn9/animalsmatching.png?dl=1", "link":"market://details?id=com.btl.PicturesMatching"}, 
+{"uid":"flappyball","name":"Flappy Ball","imagelink":"https://www.dropbox.com/s/dz5d6l8257c87l7/flappyball.png?dl=1","link":"market://details?id=com.btl.flappyball"},
+{"uid":"flipit","name":"Flip It","imagelink":"https://www.dropbox.com/s/dh1cyjioklbpkam/flipit.png?dl=1", "link":"market://details?id=com.btl.flipit"},
+{"uid":"pumpkinjump","name":"Pumpkin Jump","imagelink":"https://www.dropbox.com/s/xd5xc8r6u6717tb/pumpkinjump.png?dl=1", "link":"market://details?id=com.btl.pumpkinjump"},
+{"uid":"santasanta","name":"Santa Santa","imagelink":"https://www.dropbox.com/s/phadrmq1deadjo9/santasanta.png?dl=1", "link":"market://details?id=com.btl.santasanta"},
+{"uid":"threesevens","name":"Three Sevens","imagelink":"https://www.dropbox.com/s/zg6ioxxz20m5fal/threesevens.png?dl=1", "link":"market://details?id=com.btl.threesevens"}
+]},
+"ios":{"admob":{"banner":{"id":"ca-app-pub-9396930101251243/8879964216","showmode":2},"interstitial":{"id":"ca-app-pub-9396930101251243/1356697412","showdelay":5}},
+"moregames":[
+{"uid":"threesevens","name":"Three Sevens","imagelink":"https://www.dropbox.com/s/zg6ioxxz20m5fal/threesevens.png?dl=1", "link":"https://itunes.apple.com/us/app/three-sevens/id1095722317?mt=8"},
+{"uid":"PicturesMatching","name":"Animals Matching","imagelink":"https://www.dropbox.com/s/5x95w8havi2xcn9/animalsmatching.png?dl=1", "link":""}
+]}},
+{"uid":"PicturesMatching",
+"isupdate":true,
+"leaderboard":{"id":"","name":""},
+"android":{"admob":{"banner":{"id":"ca-app-pub-9396930101251243/1750052617","position":"bottom","showmode":2},"interstitial":{"id":"ca-app-pub-9396930101251243/4703519015","showdelay":5}},
+"moregames":[]},
+"ios":{"admob":{"banner":{"id":"ca-app-pub-9396930101251243/8879964216","showmode":2},"interstitial":{"id":"ca-app-pub-9396930101251243/1356697412","showdelay":5}},"moregames":[]}},
+{"uid":"threesevens",
 "isupdate":false,
 "leaderboard":{"id":"CgkI1aXSyvIYEAIQBQ","name":"BEST SCORE"},
-"android":{"admob":{"banner":{"id":"ca-app-pub-9396930101251243/4162170210","position":"bottom","showmode":2},"interstitial":{"id":"ca-app-pub-9396930101251243/5638903419","showdelay":5}},"moregames":[
-{"name":"Animals Matching","imagelink":"https://www.dropbox.com/s/5x95w8havi2xcn9/animalsmatching.png?dl=1", "link":"market://details?id=com.btl.PicturesMatching"}, 
-{"name":"Flappy Ball","imagelink":"https://www.dropbox.com/s/dz5d6l8257c87l7/flappyball.png?dl=1","link":"market://details?id=com.btl.flappyball"},
-{"name":"Flip It","imagelink":"https://www.dropbox.com/s/dh1cyjioklbpkam/flipit.png?dl=1", "link":"market://details?id=com.btl.flipit"},
-{"name":"Pumpkin Jump","imagelink":"https://www.dropbox.com/s/xd5xc8r6u6717tb/pumpkinjump.png?dl=1", "link":"market://details?id=com.btl.pumpkinjump"},
-{"name":"Santa Santa","imagelink":"https://www.dropbox.com/s/phadrmq1deadjo9/santasanta.png?dl=1", "link":"market://details?id=com.btl.santasanta"}]},
-"ios":{"admob":{"banner":{"id":"ca-app-pub-9396930101251243/8592369814","showmode":2},"interstitial":{"id":"ca-app-pub-9396930101251243/1069103012","showdelay":5}}}}
+"android":{"admob":{"banner":{"id":"ca-app-pub-9396930101251243/4162170210","position":"bottom","showmode":2},"interstitial":{"id":"ca-app-pub-9396930101251243/5638903419","showdelay":5}},
+"moregames":[]},
+"ios":{"admob":{"banner":{"id":"ca-app-pub-9396930101251243/8592369814","showmode":2},"interstitial":{"id":"ca-app-pub-9396930101251243/1069103012","showdelay":5}},
+"moregames":[]}}
 ]
