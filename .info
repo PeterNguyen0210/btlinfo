@@ -13,7 +13,12 @@
 "ios":{"isupdate":true,"admob":{"banner":{"id":"ca-app-pub-9396930101251243/8879964216","showmode":2},"interstitial":{"id":"ca-app-pub-9396930101251243/1356697412","showdelay":5}},
 "moregames":[
 {"uid":"threesevens","name":"Three Sevens","rev":1,"imagelink":"https://www.dropbox.com/s/zg6ioxxz20m5fal/threesevens.png?dl=1", "link":"https://itunes.apple.com/us/app/three-sevens/id1095722317?mt=8"},
-{"uid":"PicturesMatching","name":"Animals Matching","rev":4,"imagelink":"https://www.dropbox.com/s/5x95w8havi2xcn9/animalsmatching.png?dl=1", "link":"https://itunes.apple.com/us/app/three-sevens/id1095722317?mt=8"}
+{"uid":"PicturesMatching","name":"Animals Matching","rev":4,"imagelink":"https://www.dropbox.com/s/5x95w8havi2xcn9/animalsmatching.png?dl=1", "link":"https://itunes.apple.com/us/app/three-sevens/id1095722317?mt=8"},
+{"uid":"PicturesMatching2","name":"Animals Matching2","rev":4,"imagelink":"https://www.dropbox.com/s/5x95w8havi2xcn9/animalsmatching.png?dl=1", "link":"https://itunes.apple.com/us/app/three-sevens/id1095722317?mt=8"},
+{"uid":"PicturesMatching3","name":"Animals Matching3","rev":4,"imagelink":"https://www.dropbox.com/s/5x95w8havi2xcn9/animalsmatching.png?dl=1", "link":"https://itunes.apple.com/us/app/three-sevens/id1095722317?mt=8"},
+{"uid":"PicturesMatching4","name":"Animals Matching4","rev":4,"imagelink":"https://www.dropbox.com/s/5x95w8havi2xcn9/animalsmatching.png?dl=1", "link":"https://itunes.apple.com/us/app/three-sevens/id1095722317?mt=8"},
+{"uid":"PicturesMatching5","name":"Animals Matching5","rev":4,"imagelink":"https://www.dropbox.com/s/5x95w8havi2xcn9/animalsmatching.png?dl=1", "link":"https://itunes.apple.com/us/app/three-sevens/id1095722317?mt=8"},
+{"uid":"PicturesMatching6","name":"Animals Matching6","rev":4,"imagelink":"https://www.dropbox.com/s/5x95w8havi2xcn9/animalsmatching.png?dl=1", "link":"https://itunes.apple.com/us/app/three-sevens/id1095722317?mt=8"}
 ]}},
 {"uid":"PicturesMatching",
 "leaderboard":{"id":"","name":""},
