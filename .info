@@ -26,4 +26,10 @@
 "moregames":[]},
 "ios":{"isupdate":true,"admob":{"banner":{"id":"ca-app-pub-9396930101251243/8592369814","showmode":2},"interstitial":{"id":"ca-app-pub-9396930101251243/1069103012","showdelay":5}},
 "moregames":[]}}
+{"uid":"flipit",
+"leaderboard":{"id":"","name":""},
+"android":{"isupdate":true,"admob":{"banner":{"id":"ca-app-pub-9396930101251243/7326954217","position":"bottom","showmode":2},"interstitial":{"id":"ca-app-pub-9396930101251243/8803687416","showdelay":5}},
+"moregames":[]},
+"ios":{"isupdate":true,"admob":{"banner":{"id":"ca-app-pub-9396930101251243/3199557819","showmode":2},"interstitial":{"id":"ca-app-pub-9396930101251243/4676291016","showdelay":5}},
+"moregames":[]}}
 ]
