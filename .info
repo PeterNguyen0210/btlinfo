@@ -13,24 +13,23 @@
 "ios":{"isupdate":true,"admob":{"banner":{"id":"ca-app-pub-9396930101251243/8879964216","showmode":2},"interstitial":{"id":"ca-app-pub-9396930101251243/1356697412","showdelay":5}},
 "moregames":[
 {"uid":"threesevens","name":"Three Sevens","rev":2,"imagelink":"https://www.dropbox.com/s/zg6ioxxz20m5fal/threesevens.png?dl=1", "link":"https://itunes.apple.com/us/app/id1095722317"},
-{"uid":"PicturesMatching","name":"Animals Matching Memory","rev":4,"imagelink":"https://www.dropbox.com/s/5x95w8havi2xcn9/animalsmatching.png?dl=1", "link":"https://itunes.apple.com/us/app/id1190334681"},
-{"uid":"flipit","name":"Flip It ALL","rev":2,"imagelink":"https://www.dropbox.com/s/dh1cyjioklbpkam/flipit.png?dl=1", "link":"https://itunes.apple.com/us/app/id1225866005"}
+{"uid":"PicturesMatching","name":"Animals Matching Memory","rev":4,"imagelink":"https://www.dropbox.com/s/5x95w8havi2xcn9/animalsmatching.png?dl=1", "link":"https://itunes.apple.com/us/app/id1190334681"}
 ]}},
 {"uid":"PicturesMatching",
 "leaderboard":{"id":"","name":""},
-"android":{"isupdate":true,"admob":{"banner":{"id":"ca-app-pub-9396930101251243/1750052617","position":"bottom","showmode":2},"interstitial":{"id":"ca-app-pub-9396930101251243/4703519015","showdelay":5}},
+"android":{"isupdate":true,"admob":{"banner":{"id":"ca-app-pub-9396930101251243/1750052617","position":"bottom","showmode":2},"interstitial":{"id":"ca-app-pub-9396930101251243/4703519015","showdelay":3}},
 "moregames":[]},
-"ios":{"isupdate":true,"admob":{"banner":{"id":"ca-app-pub-9396930101251243/8879964216","showmode":2},"interstitial":{"id":"ca-app-pub-9396930101251243/1356697412","showdelay":5}},"moregames":[]}},
+"ios":{"isupdate":true,"admob":{"banner":{"id":"ca-app-pub-9396930101251243/8879964216","showmode":2},"interstitial":{"id":"ca-app-pub-9396930101251243/1356697412","showdelay":3}},"moregames":[]}},
 {"uid":"threesevens",
 "leaderboard":{"id":"CgkI1aXSyvIYEAIQBQ","name":"BEST SCORE"},
-"android":{"isupdate":true,"admob":{"banner":{"id":"ca-app-pub-9396930101251243/4162170210","position":"bottom","showmode":2},"interstitial":{"id":"ca-app-pub-9396930101251243/5638903419","showdelay":5}},
+"android":{"isupdate":true,"admob":{"banner":{"id":"ca-app-pub-9396930101251243/4162170210","position":"bottom","showmode":2},"interstitial":{"id":"ca-app-pub-9396930101251243/5638903419","showdelay":3}},
 "moregames":[]},
-"ios":{"isupdate":true,"admob":{"banner":{"id":"ca-app-pub-9396930101251243/8592369814","showmode":2},"interstitial":{"id":"ca-app-pub-9396930101251243/1069103012","showdelay":5}},
+"ios":{"isupdate":true,"admob":{"banner":{"id":"ca-app-pub-9396930101251243/8592369814","showmode":2},"interstitial":{"id":"ca-app-pub-9396930101251243/1069103012","showdelay":3}},
 "moregames":[]}},
 {"uid":"flipit",
 "leaderboard":{"id":"","name":""},
-"android":{"isupdate":true,"admob":{"banner":{"id":"ca-app-pub-9396930101251243/7326954217","position":"bottom","showmode":2},"interstitial":{"id":"ca-app-pub-9396930101251243/8803687416","showdelay":5}},
+"android":{"isupdate":true,"admob":{"banner":{"id":"ca-app-pub-9396930101251243/7326954217","position":"bottom","showmode":2},"interstitial":{"id":"ca-app-pub-9396930101251243/8803687416","showdelay":3}},
 "moregames":[]},
-"ios":{"isupdate":true,"admob":{"banner":{"id":"ca-app-pub-9396930101251243/3199557819","showmode":2},"interstitial":{"id":"ca-app-pub-9396930101251243/4676291016","showdelay":5}},
+"ios":{"isupdate":true,"admob":{"banner":{"id":"ca-app-pub-9396930101251243/3199557819","showmode":2},"interstitial":{"id":"ca-app-pub-9396930101251243/4676291016","showdelay":3}},
 "moregames":[]}}
 ]
